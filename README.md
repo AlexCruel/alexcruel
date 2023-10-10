@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Alex Karpenkov
 
-<!-- Stack:
+Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![alexcruel GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=alexcruel&show_icons=true&theme=transparent)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wezbicka&layout=compact&langs_count=6&hide=roff&theme=calm)]
+[![alexcruel GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=alexcruel&show_icons=true&theme=transparent)](https://github.com/alexcruel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wezbicka&layout=compact&langs_count=6&hide=roff&theme=calm)](https://github.com/alexcruel/github-readme-stats)
 
 Contact me:
 
